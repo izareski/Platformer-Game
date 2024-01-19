@@ -1,0 +1,1 @@
+draw_text_transformed(10, 10, fps, 2, 2, 0);
